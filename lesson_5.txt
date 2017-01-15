@@ -1,0 +1,6 @@
+Question 5: How can you use the commands git log and git diff to view the
+history of files?
+Answer: git log command gives a summary of the changes made without detailed
+information on the changes. It gives the ids of the commits/versions. Now
+using the git diff command only can look at the detailed changes in the
+versions like how many lines were changed and exactly what was changed.

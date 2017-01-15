@@ -1,0 +1,3 @@
+Question 7: Now that you have your workspace set up, what do you want to try
+using Git for?
+Answer: Learn how to do version control, commits and manage project.

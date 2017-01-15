@@ -1,0 +1,5 @@
+Question 6: How might using version control make you more confident to make
+changes that could break something?
+Answer: With version control you can always go back to the previous version
+of your code so you can experiment without fear of losing your program with
+version control.

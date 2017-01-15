@@ -1,0 +1,12 @@
+Question 2: How could having easy access to the entire history of a file make
+you a more efficient programmer in the long term?
+
+Answer: Learning from mistakes made is an essential part of everyday learning.
+In my experience in my professional life, I relaized this truth about learning
+from mistakes many times. So to me having an entire history of a file will be
+very useful in learning from mistakes. It will also be a very positive feeling
+to see that you are making progress when you are able to see the history of
+the changes you made. In terms of efficiency having the history might help
+incase a change you made did not work out and having the history will help
+you not loose the previous working version and save you time from rewriting
+the code you had previously written.

@@ -1,0 +1,10 @@
+Question 1: How did viewing a diff between two versions of a file help you
+see the bug that was introduced?
+
+Answer: Using the diff command helped locate the bug easily and quickly. The diff
+command showed all the line numbers where the content in the two files
+differed sequentially. I just had to scroll down to see where I could
+spot a typo and since it also showed what was in the previous version at 
+that location it helped to quickly see where the typo "spacr" occurred in 
+the new version of the file
+

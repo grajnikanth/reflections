@@ -1,0 +1,10 @@
+Question 3: What do you think are the pros and cons of maually choosing when
+to create a commit, like you do in Git, vs having versions automatically
+saved, like Google Docs does?
+Answer: The pros with manual commits are that it will be more logical. You can
+choose to have manual commits such that all the versions are executable. If
+automatic save option is used, then the version might be in the middle of
+a change and might not run. The cons are that the manual commits are highly
+subjective and one can make error of committing too big versions or too small
+versions.
+
